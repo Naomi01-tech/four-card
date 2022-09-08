@@ -1,0 +1,55 @@
+.header{
+    text-align: center;
+}
+*{
+    font-size: 15px;
+}
+img{
+    height: 50px;
+    width: 50px;
+    margin-left: 250px;
+    display: flex;
+justify-content: center;
+}
+.top{
+width: 311px;
+height: 4px;
+background-color: lightblue;
+margin-left: -13px;
+}
+.team{
+    width: 311px;
+    height: 4px;
+    background-color: lightcoral;
+    margin-left: -13px;
+}
+.Supervisor{
+    width: 311px;
+    height: 4px;
+    background-color: darkblue;
+    margin-left: -13px;
+}
+.calc{
+    width: 311px;
+    height: 4px;
+    background-color: yellow;
+    margin-left: -13px;
+}
+.title{
+    margin-left: 435px;
+}
+.next{
+    margin-left: 380px;
+    font-size: 50px;
+}
+.tx{
+    margin-left: 380px;
+}
+.txt{
+    margin-left: 460px;
+}
+.kar{
+    margin-left: 900px;
+    margin-top: -240px;
+    width: 318px;
+}
